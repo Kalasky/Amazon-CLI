@@ -1,10 +1,10 @@
-**BAMAZON**
+**Amazon-CLI**
 
 `Amazon-like storefront application that will take in orders from customers and deplete stock from the store's inventory.`
 
-**WHAT IS BAMAZON**
+**WHAT IS Amazon-CLI**
 
->Bamazon provides the user with a list of available products for sale all marked with a unique ID. Bamazon will then ask the user which product ID the user wishes to purchase. Bamazon will ask how many units of the item the user would like to purchase, then automatically calculates the total price.
+>Amazon-CLI provides the user with a list of available products for sale all marked with a unique ID. Amazon-CLI will then ask the user which product ID the user wishes to purchase. Amazon-CLI will ask how many units of the item the user would like to purchase, then automatically calculates the total price.
 
 
 **USER COMMANDS**
